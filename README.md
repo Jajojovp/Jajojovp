@@ -2,10 +2,6 @@
 
 ### Data Analyst • Data Scientist • AI & Automation Builder
 
-<p align="center">
-  <img src="perfilanime.JPEG" width="260" alt="Jairo Vera Profile Image"/>
-</p>
-
 ---
 
 # 🌎 About Me
