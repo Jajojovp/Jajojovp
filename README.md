@@ -123,6 +123,3 @@ Technology is most valuable when it:
 
 I believe innovation should be practical, efficient, and useful.
 ```
-
-  </a>
-</p>
