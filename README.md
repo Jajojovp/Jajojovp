@@ -1,5 +1,5 @@
-```md
-# Hi, I'm Jairo Vera 👋  
+# Hi, I'm Jairo Vera 👋
+
 ### Data Analyst • Data Scientist • AI & Automation Builder
 
 <p align="center">
@@ -13,24 +13,27 @@
 I focus on identifying real-world problems and building practical technological solutions that improve processes, reduce operational friction, optimize workflows, and create scalable systems.
 
 My work combines:
-- 📊 Data Analysis & Data Science
-- 🤖 Artificial Intelligence & Automation
-- ⚡ Rapid MVP & SaaS Development
-- 🔗 Integrations & Operational Systems
-- 🌐 Business Optimization Through Technology
+
+* 📊 Data Analysis & Data Science
+* 🤖 Artificial Intelligence & Automation
+* ⚡ Rapid MVP & SaaS Development
+* 🔗 Integrations & Operational Systems
+* 🌐 Business Optimization Through Technology
 
 I enjoy working on projects where technology creates measurable impact, especially in:
-- operational efficiency,
-- automation,
-- decision-making,
-- business intelligence,
-- and scalable digital infrastructure.
+
+* operational efficiency
+* automation
+* decision-making
+* business intelligence
+* scalable digital infrastructure
 
 ---
 
 # 🛠 Tech Stack
 
 ## 📊 Data & Analytics
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
@@ -39,7 +42,10 @@ I enjoy working on projects where technology creates measurable impact, especial
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
+---
+
 ## 🤖 AI, Automation & Development
+
 <p>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -48,7 +54,10 @@ I enjoy working on projects where technology creates measurable impact, especial
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
+---
+
 ## 🌐 Business & Systems
+
 <p>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   <img alt="Finance" src="https://img.shields.io/badge/Finance-28a745?style=flat-square"/>
@@ -61,14 +70,15 @@ I enjoy working on projects where technology creates measurable impact, especial
 # 🚀 What I Build
 
 I like building:
-- AI-powered systems
-- Automation workflows
-- Operational dashboards
-- Business intelligence tools
-- SaaS products
-- Data-driven applications
-- Internal business tools
-- AI agents & multi-agent systems
+
+* AI-powered systems
+* Automation workflows
+* Operational dashboards
+* Business intelligence tools
+* SaaS products
+* Data-driven applications
+* Internal business tools
+* AI agents & multi-agent systems
 
 The objective is simple:
 
@@ -78,14 +88,14 @@ The objective is simple:
 
 # 🎯 Current Focus
 
-- AI Automation
-- AI Agents
-- Operational Intelligence
-- Business Process Optimization
-- Scalable SaaS Architecture
-- Blockchain Ecosystems
-- Workflow Automation
-- Data-Driven Decision Systems
+* AI Automation
+* AI Agents
+* Operational Intelligence
+* Business Process Optimization
+* Scalable SaaS Architecture
+* Blockchain Ecosystems
+* Workflow Automation
+* Data-Driven Decision Systems
 
 ---
 
@@ -93,7 +103,7 @@ The objective is simple:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jajojo_v&show_icons=true&theme=radical"/>
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajojo_v&layout=compact&theme=radical"/>
 </p>
 
@@ -116,10 +126,10 @@ The objective is simple:
 # 💡 Philosophy
 
 Technology is most valuable when it:
-- solves real problems,
-- improves processes,
-- reduces unnecessary complexity,
-- and creates scalable impact.
+
+* solves real problems
+* improves processes
+* reduces unnecessary complexity
+* creates scalable impact
 
 I believe innovation should be practical, efficient, and useful.
-```
